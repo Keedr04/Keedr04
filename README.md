@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Keedr04
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning PHP/JS
+- 📫 How to reach me E-mail: keedr004@gmail.com
+- ⚡ Fun fact: bi-lingual
